@@ -1,0 +1,5 @@
+#N Gosper glider gun
+#C Infinite glider stream — classic demonstration pattern.
+#C https://conwaylife.com/wiki/Gosper_glider_gun
+x = 36, y = 9, rule = B3/S23
+24bo$22bobo$12b2o6b2o$11bo3b4ob2o2bo$10b2obobobobob2o$4bo14bo2bo2bob2o$4bo2bo12bobobobobo$5bobo11bobo2bo2bo2bo$8bo10bo$6bo$7bo!
